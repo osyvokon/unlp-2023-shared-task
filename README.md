@@ -5,6 +5,9 @@ in Grammatical Error Correction for Ukrainian.
 
 ## Updates
 
+**2023-2-13**:
+
+* Add `./scripts/tokenizer.py`
 
 **2023-01-24**:
 
