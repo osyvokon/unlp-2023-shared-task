@@ -180,13 +180,16 @@ erroneous tokens. The actual correction doesn't matter here.
 
 ## Submission
 
-Teams that intend to participate should register by filling in [this form](https://forms.gle/46gamdVXhFkBeZeX8).
+System submissions and the leaderboard are managed through the Codalab
+environment: https://codalab.lisn.upsaclay.fr/competitions/10740
 
-We will release the test set (uncorrected texts only), along with the
-instructions on how to submit your model's output, to the registered
-participants on February 13, 2023.
+The test sets for both tracks can be accessed via Codalab. Requirements for
+the submission files, as well as sample submission files, have been added for
+your convenience.
 
-The code of the participating systems should be openly published.
+The participants of the shared task agree to compete in a fair and honest
+manner, make their solutions publicly available, and not share the test data
+with any third parties.
 
 
 ## Publication
@@ -209,7 +212,7 @@ March 10, 2023 — Submission of system responses
 March 13, 2023 — Notification of acceptance  
 March 14, 2023 — Results of the Shared Task announced to participants  
 March 27, 2023 — Camera-ready Shared Task papers due  
-May 2 or 6, 2023 — Workshop dates
+May 5 or 6, 2023 — Workshop dates
 
 
 ## Contacts
