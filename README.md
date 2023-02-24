@@ -7,6 +7,8 @@ in Grammatical Error Correction for Ukrainian.
 
 **2023-2-13**:
 
+* [Codalab](https://codalab.lisn.upsaclay.fr/competitions/10740) competition / leaderboard launched
+* Private test set available in [Codalab](https://codalab.lisn.upsaclay.fr/competitions/10740)
 * Add `./scripts/tokenizer.py`
 
 **2023-01-24**:
