@@ -5,6 +5,11 @@ in Grammatical Error Correction for Ukrainian.
 
 ## Updates
 
+**2023-03-14**:
+
+* [Official results](https://github.com/asivokon/unlp-2023-shared-task#results) announced.
+* [Leadboard](https://codalab.lisn.upsaclay.fr/competitions/10740) stays active. You are welcome to continue making submissions.
+
 **2023-2-13**:
 
 * [Codalab](https://codalab.lisn.upsaclay.fr/competitions/10740) competition / leaderboard launched
