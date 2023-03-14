@@ -193,6 +193,26 @@ manner, make their solutions publicly available, and not share the test data
 with any third parties.
 
 
+## Results
+
+The shared task was closed on March 10, 2023. See the leaderboards and the
+winners below.
+
+The winner for Track 1 (GEC only) is **QC-NLP** scoring 0.7314 F0.5!
+Congratulations to you, Frank Palma Gomez, Alla Rozovskaya, and Dan Roth! 🎉
+
+![Track 1. Leaderboard](img/ua-gec-track-1-leaderboard.png)
+
+The winner for Track 2 (GEC+Fluency) is **Pravopysnyk** scoring 0.6817 F0.5!
+Congratulations to you, Maksym Bondarenko, Artem Yushko, Andre Shportko, and
+Andriy Fedorych! 🎉
+
+![Track 2. Leaderboard](img/ua-gec-track-2-leaderboard.png)
+
+The full shared task report with detailed system descriptions will be presented
+and published at [UNLP](https://unlp.org.ua/) on May 5, 2023.
+
+
 ## Publication
 
 Participants in the shared task are invited to submit a paper to the UNLP 2023
