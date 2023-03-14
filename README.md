@@ -120,9 +120,8 @@ request if you happen to find an error.
 The validation data provided with the shared task can be used for model
 selection.
 
-The final model will be evaluated on a hidden test set. We will release
-`test.src.txt` and `test.src.tok` files to the registered participants on
-February 13, 2023. Please fill in [this form](https://forms.gle/46gamdVXhFkBeZeX8) to register for participation.
+The final model will be evaluated on a hidden test set. See [Submission](#submission) for
+details.
 
 We annotated the test set with multiple annotators in order to somewhat
 compensate for the subjectivity of the task. If a correction is in agreement
@@ -211,10 +210,10 @@ February 12, 2023 — Registration deadline
 February 13, 2023 — Release of test data to registered participants  
 February 20, 2023 — Shared Task paper submission  
 March 10, 2023 — Submission of system responses  
-March 13, 2023 — Notification of acceptance  
 March 14, 2023 — Results of the Shared Task announced to participants  
+March 17, 2023 — Notification of acceptance  
 March 27, 2023 — Camera-ready Shared Task papers due  
-May 5 or 6, 2023 — Workshop dates
+May 5, 2023 — Workshop dates
 
 
 ## Contacts
